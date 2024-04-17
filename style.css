@@ -1,0 +1,24 @@
+h1{
+ text-align: center; 
+}
+h2{
+ text-align: center; 
+}
+
+#after {
+  border: 10px inset #cfdbff;
+  padding: 0px;
+  margin-left: 430px;
+}
+
+#after:hover {
+  border: 10px outset #cfdbff;
+}
+ul li::marker{
+  color:#0a98c7
+}
+#theweeknd {
+  width:600px;
+  height:600px;
+  margin-left:370px;
+}
